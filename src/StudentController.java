@@ -1,4 +1,4 @@
-public class StudentController   {
+public class StudedntController {
     public void controller() {
         
     }
